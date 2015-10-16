@@ -1,4 +1,4 @@
 # FlickrApp
 
-Basic Angular JS application to retrieve photos from Flickr public photos.
+AngularJS application to retrieve photos from Flickr public photos using Flickr API.
 
